@@ -1,4 +1,4 @@
-<h1 align="center">Jupiter Volume checker | Solflare, Phantom, Magic eden, and other solana wallets airdrop checker</h1>
+<h1 align="center">Jupiter Volume checker | Solana wallets airdrop checker</h1>
 <div id="badges" align="center">
   <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
   <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
