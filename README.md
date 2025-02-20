@@ -4,8 +4,6 @@
   <div id="header"">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzR5MGc3eXV6YXcxZzhod3Jrb2ZrYnJmeXRtMm81dGxmMzhtNWZncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iOIDr7Ht0IXbXiOzJ/giphy.gif" width="300"/>
 <div>
-<a href="z"><img src="https://img.shields.io/badge/jupiter-purple?logo=jupiter&logoColor=purple&style=for-the-badge"></a>
-<a href="z"><img src="https://img.shields.io/badge/solana-blue?logo=solana&logoColor=blue&style=for-the-badge"/></a>
 </div>
 </div>
 </div>
